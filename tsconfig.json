@@ -8,6 +8,10 @@
     "jsx": "react-jsx",
     "allowJs": true,
 
+    "outDir": "dist",
+    "baseUrl": "src",
+    "rootDir": "src",
+
     // Bundler mode
     "moduleResolution": "bundler",
     "allowImportingTsExtensions": true,
